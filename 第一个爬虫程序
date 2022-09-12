@@ -1,0 +1,25 @@
+"""from urllib.request import urlopen
+
+url = 'https://www.baidu.com'
+resp = urlopen(url)
+
+
+
+with open("mybaidu.html", mode="w") as f:
+    f.write(resp.read().decode("utf-8"))
+    print("over!")"""
+
+
+
+
+# f  = open('C:/Users/86152/Desktop/tld.txt', 'r')
+
+# print(f.read())
+
+s1 = set([1,2,3,4,5,6])
+print(s1)
+i = 1
+if i in s1:
+    print(True)
+
+
